@@ -6,6 +6,7 @@ public class Main {
        Days monday = Days.MONDAY;
        System.out.println(monday.getLower()); 
        System.out.println("second commit changes");
+       System.out.println("Third Commit changes");
         
     }
 }
