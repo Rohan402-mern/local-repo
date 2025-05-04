@@ -1,0 +1,10 @@
+import Inner.Days;
+
+public class Main {
+    public static void main(String[] args) {
+
+       Days monday = Days.MONDAY;
+       System.out.println(monday.getLower()); 
+        
+    }
+}
